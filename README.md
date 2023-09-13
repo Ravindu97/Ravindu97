@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ravindu Fernando</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ravindu+Fernando+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 <h3 align="center">A passionate learner with a curious mind</h3>
 
 - 🔭 I’m currently working on [Research on Dangers of Artificial Intelligence Generated Spam Email](https://github.com/Ravindu97/AIResearchProject.git)
