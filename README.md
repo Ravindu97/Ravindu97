@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width = 300px></picture>
 
 
 - :school: I am a `Undergraduate` at [Faculty Of Science](https://sci.pdn.ac.lk/) in [University Of Peradeniya](https://www.pdn.ac.lk/)
