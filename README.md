@@ -2,13 +2,24 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ravindu+Fernando+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 <h3 align="center">A passionate learner with a curious mind</h3>
 
-- 🔭 I’m currently working on [Research on Dangers of Artificial Intelligence Generated Spam Email](https://github.com/Ravindu97/AIResearchProject.git)
 
-- 🌱 I’m currently learning **Machine Learning, Full Stack Development**
 
-- 💬 Ask me about **React, Java, Data Structures , Design Patterns , Object Oriented Programming Concepts**
 
-- 📫 How to reach me **f.ravindu@gmail.com**
+
+<!--About Me-->
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+
+- :school: I am a `Undergraduate` at [Faculty Of Science](https://sci.pdn.ac.lk/) in [University Of Peradeniya](https://www.pdn.ac.lk/)
+- :technologist: **Currently working on** `Full Stack Web Development` **&** `Data Science`
+- 🔭 I’m currently working on [Research on Dangers of Artificial Intelligence Generated Spam](https://github.com/Ravindu97/AIResearchProject.git)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=RAVINDUFERNANDO&amp;color=EA4335&amp;style=flat-square)](mailto:f.ravindu@gmail.com)
+- :nerd_face: Always believe `"discipline weighs ounces while regret weighs tons"`
+
+<br>
 
 
 <br>
